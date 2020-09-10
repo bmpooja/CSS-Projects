@@ -1,0 +1,32 @@
+.card {
+    background-color: chartreuse;
+    align-content: center;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-size: 60px;
+}
+
+p{
+    margin: 50px;
+}
+.info {
+    font-size: 20px;
+}
+
+.info-label {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.end {
+    font-size: 25px;
+    font-weight: 800;
+}
+img {
+    margin:30px auto;
+    height: 200px;
+    width: 200px;
+}

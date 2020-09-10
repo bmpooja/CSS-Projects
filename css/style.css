@@ -1,0 +1,32 @@
+body{
+    margin:0 auto;
+    font-size: 18px;
+    font-family: 'Lato';
+    text-align: center;
+    
+}
+
+.container{
+    margin: 0 auto;
+   
+}
+h2{
+    text-transform: uppercase;
+    margin: 30px auto;
+}
+
+.title-section {
+    background-color: darkblue;
+    height:50px;
+    color:#fff;
+    margin:0 auto;
+    width: 500px;
+}
+.btn {
+    background-color: #f47037;
+    text-decoration: none;
+    color: #fff;
+    padding:10px 25px;
+
+}
+
